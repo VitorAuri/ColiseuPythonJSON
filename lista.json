@@ -1,0 +1,25 @@
+{
+    "jogadores": [
+        {
+            "nome": "Claudio",
+            "hierarquia": "Membro",
+            "custo": 20,
+            "clan": "Inimigos da Moda",
+            "lenda": "Bodvar"
+        },
+        {
+            "nome": "Nice Name",
+            "hierarquia": "Co-Lider",
+            "custo": 60,
+            "clan": "Bichos do Mato",
+            "lenda": "Ragnir"
+        },
+        {
+            "nome": "HuraBit",
+            "hierarquia": "Lider",
+            "custo": 60,
+            "clan": "Bichos do Mato",
+            "lenda": "Arcadia"
+        }
+    ]
+}
