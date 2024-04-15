@@ -1,25 +1,67 @@
 {
     "jogadores": [
         {
-            "nome": "Claudio",
-            "hierarquia": "Membro",
-            "custo": 20,
+            "nome": "LucasPro",
+            "hierarquia": "Lider",
+            "custo": 90,
             "clan": "Inimigos da Moda",
-            "lenda": "Bodvar"
+            "lenda": "orion"
         },
         {
             "nome": "Nice Name",
             "hierarquia": "Co-Lider",
             "custo": 60,
             "clan": "Bichos do Mato",
-            "lenda": "Ragnir"
+            "lenda": "ragnir"
         },
         {
             "nome": "HuraBit",
             "hierarquia": "Lider",
             "custo": 60,
             "clan": "Bichos do Mato",
-            "lenda": "Arcadia"
+            "lenda": "arcadia"
+        },
+        {
+            "nome": "Ueupo",
+            "hierarquia": "Lider",
+            "custo": 60,
+            "clan": "Aurora",
+            "lenda": "artemis"
+        },
+        {
+            "nome": "S P A C E",
+            "hierarquia": "Membro",
+            "custo": 90,
+            "clan": "Aurora",
+            "lenda": "ulgrim"
+        },
+        {
+            "nome": "Navarro",
+            "hierarquia": "Membro",
+            "custo": 100,
+            "clan": "Firebirds",
+            "lenda": "scarlet"
+        },
+        {
+            "nome": "Yang",
+            "hierarquia": "Membro",
+            "custo": 60,
+            "clan": "Vasco",
+            "lenda": "petra"
+        },
+        {
+            "nome": "Studd",
+            "hierarquia": "Membro",
+            "custo": 60,
+            "clan": "Cruzeiro",
+            "lenda": "jaeyun"
+        },
+        {
+            "nome": "Sillva",
+            "hierarquia": "Lider",
+            "custo": 70,
+            "clan": "Strawberry Tea",
+            "lenda": "petra"
         }
     ]
 }
